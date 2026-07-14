@@ -24,7 +24,7 @@
 
 
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 <div align="left">
 
@@ -33,9 +33,8 @@
 - 🎓 Final Year B.Tech Student in Computer Science & Engineering.
 - 🧠 Currently mastering Data Structures & Algorithms using Java.
 - 🤖 Interested in AI-powered applications and modern web technologies.
-- 🚀 Building **JobFit AI**, an AI-driven career preparation platform.
 - 🌱 Continuously learning, improving, and exploring new technologies.
-- 💼 Open to Software Development Internship opportunities.
+
 
 </div>
 <br/>
