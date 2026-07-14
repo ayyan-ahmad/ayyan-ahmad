@@ -24,9 +24,10 @@
 
 
 
-### 👨‍💻 About Me
+
 
 <div align="left">
+### 👨‍💻 About Me
 
 - 💻 Full Stack MERN Developer passionate about building scalable web applications.
 - 🎓 Final Year B.Tech Student in Computer Science & Engineering.
