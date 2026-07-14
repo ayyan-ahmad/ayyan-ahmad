@@ -42,12 +42,15 @@ const ayyanAhmad = {
 
 </div>
 
+<div align="left">
+
 - 🎓 Final-year CSE student who turned late-night coding sessions into a full-stack skillset
 - 🧠 Deep-diving into **DSA with Java** — one problem, one pattern, one proof at a time
 - 🤖 Currently building **JobFit AI**, an AI-powered platform that helps people land jobs
 - ⚡ I like software that is fast, secure, and doesn't make the user think twice
 - 🚀 Actively looking for **internship opportunities** where I can ship real features
 
+</div>
 <br/>
 
 <div align="center">
