@@ -1,19 +1,19 @@
 <!-- 
 =======================================================================
 GITHUB PROFILE INSTRUCTIONS:
-This README is fully updated with your provided links.
-Just copy everything below this comment block and paste it into your 
-repository's README.md file, then commit.
+This README is fully updated with your adjusted tech stack and features 
+a highly structured, premium "FAANG-candidate" layout. 
+Copy everything below this comment block and commit to your repo.
 =======================================================================
 -->
 
 <div align="center">
 
-# Hi, I'm Ayyan Ahmad 👋
+# 👨‍💻 Ayyan Ahmad
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Full+Stack+MERN+Developer;Software+Engineering+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+MERN+Developer;Building+AI-Powered+Web+Applications)](https://git.io/typing-svg)
 
-*Final-year Computer Science engineering student with a strong foundation in Full-Stack Development and Data Structures & Algorithms. Focused on architecting scalable, AI-powered web applications and building robust software solutions.*
+> *Final-year Computer Science engineering student with a strong foundation in Full-Stack Development and Data Structures & Algorithms. Focused on architecting scalable, AI-powered web applications and building robust software solutions.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayyan-ahmad-5a58a628a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayyanahmad2603@gmail.com)
@@ -21,76 +21,66 @@ repository's README.md file, then commit.
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 🎯 Executive Summary
 
-- 🎓 **Education:** Final Year B.Tech in Computer Science & Engineering.
-- 💻 **Core Focus:** Full Stack Web Development (MERN) and AI API integration.
-- ⚙️ **Current Learning:** Mastering **Data Structures & Algorithms** using **Java** for robust problem-solving.
-- 🎯 **Objective:** Actively seeking a **Software Development Internship (SDE / Full Stack)** to contribute to production-ready systems.
+| | |
+| :--- | :--- |
+| 🎓 **Education** | Final Year B.Tech in Computer Science & Engineering |
+| 💻 **Core Focus** | Full Stack Web Development (MERN) & System Architecture |
+| ⚙️ **Current Learning** | Mastering **Data Structures & Algorithms** (Java) |
+| 🚀 **Objective** | Seeking a **Software Development Internship (SDE / Full Stack)** |
 
----
+<br/>
 
 ## 🛠️ Technical Arsenal
 
-<div align="center">
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,js&theme=dark" alt="Languages" valign="middle"> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="Frontend" valign="middle"> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend" valign="middle"> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark" alt="Tools" valign="middle"> |
 
-**Languages & Core** <br>
-[![Java](https://skillicons.dev/icons?i=java,js,html,css)](#)
+<br/>
 
-**Frontend Development** <br>
-[![Frontend](https://skillicons.dev/icons?i=react,tailwind,vite)](#)
+## 🌟 Featured Engineering Project
 
-**Backend & Database** <br>
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)](#)
+### [JobFit AI](https://github.com/ayyan-ahmad/JobFit-AI) 
+> *An AI-powered MERN stack platform engineered to optimize the technical job preparation process.*
 
-**Tools & Deployment** <br>
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify)](#)
-
-</div>
-
----
-
-## 🚀 Featured Project
-
-### **[JobFit AI](https://github.com/ayyan-ahmad/JobFit-AI)**
-*An AI-powered MERN stack platform engineered to optimize the technical job preparation process.*
-
-**Core Features & Architecture:**
 - **AI Integration:** Leveraged **Google Gemini AI** for intelligent resume analysis and dynamic mock interviews.
 - **ATS Optimization:** Built a custom ATS-compliant resume generator and job match scoring algorithm.
-- **Secure Authentication:** Implemented highly secure state management using **JWT** and **HTTP-only Cookies**.
-- **Data & Gamification:** Engineered automated email notifications, skill gap detection, dynamic learning roadmaps, and a competitive leaderboard.
+- **Secure Architecture:** Implemented secure state management using **JWT** and **HTTP-only Cookies**.
+- **Engagement Mechanics:** Engineered automated email notifications, skill gap detection, dynamic learning roadmaps, and a competitive leaderboard.
 - **UI/UX:** Delivered a fully responsive, modern frontend architecture.
 
-🔗 **[View Repository](https://github.com/ayyan-ahmad/JobFit-AI)** | 🌐 **[Live Demo](https://job-fit-ai-plum.vercel.app/)**
+🔗 **[View Repository](https://github.com/ayyan-ahmad/JobFit-AI)** &nbsp; | &nbsp; 🌐 **[Live Production Demo](https://job-fit-ai-plum.vercel.app/)**
 
----
+<br/>
 
-## 📊 GitHub Analytics
+## 📊 Performance & Analytics
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ayyan-ahmad&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" height="195" alt="GitHub Stats" />
-  <!-- GitHub Streak Card -->
-  <img src="https://streak-stats.demolab.com/?user=ayyan-ahmad&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakLabel=c9d1d9" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayyan-ahmad&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" height="185" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ayyan-ahmad&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakLabel=c9d1d9" height="185" alt="GitHub Streak" />
 </div>
-<br>
+
+<br/>
+
 <div align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayyan-ahmad&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayyan-ahmad&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
----
+<br/>
 
-## 📈 2026 Engineering Goals
+## 📈 Engineering Goals
 
 - **Mastery:** Achieve advanced proficiency in DSA to optimize algorithmic problem-solving.
 - **Architecture:** Learn System Design principles to build scalable, high-availability architectures.
 - **Open Source:** Actively contribute to impactful open-source repositories.
 - **Innovation:** Continue developing AI-driven web applications that solve real-world problems.
-- **Career:** Transition into a full-time Software Developer role at a top-tier product company.
 
 ---
 
