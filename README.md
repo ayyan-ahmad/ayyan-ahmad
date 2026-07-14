@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-00F0FF?style=for-the-badge&labelColor=0A0E27" alt="Open to internships" />
 <img src="https://img.shields.io/badge/B.Tech-Final%20Year%20CSE-0A84FF?style=for-the-badge&labelColor=0A0E27" alt="Final year CSE student" />
 
-<br/><br/>
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00A6C9,100:00F0FF&height=3" alt="divider" />
 
@@ -114,7 +114,7 @@ const ayyanAhmad = {
 
 **Tools & Workflow**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm&theme=dark" alt="Git, GitHub , VS Code, npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" alt="Git, GitHub , VS Code, npm" />
 
 </div>
 
@@ -176,7 +176,7 @@ Built to solve a problem I lived through myself: job prep is scattered across te
 [![Repository](https://img.shields.io/badge/View_Repository-0A0E27?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/ayyan-ahmad/JobFit-AI)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=0A0E27)](https://job-fit-ai-plum.vercel.app/)
 
-<br/><br/>
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00A6C9,100:00F0FF&height=3" alt="divider" />
 
@@ -191,15 +191,15 @@ Built to solve a problem I lived through myself: job prep is scattered across te
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayyan-ahmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D6DF&ring_color=00F0FF" alt="Ayyan's GitHub stats" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyan-ahmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D6DF" alt="Top languages" />
 
-<br/><br/>
+<br/>
 
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayyan-ahmad&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D6DF&currStreakNum=E8FDFF&sideNums=E8FDFF" alt="GitHub streak stats" />
 
-<br/><br/>
+<br/>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayyan-ahmad&theme=react-dark&bg_color=0D1117&color=00F0FF&line=00F0FF&point=E8FDFF&area=true&hide_border=true" alt="Contribution activity graph" />
 
-<br/><br/>
+<br/>
 
 <img width="90%" src="https://github-profile-trophy.vercel.app/?username=ayyan-ahmad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
 
