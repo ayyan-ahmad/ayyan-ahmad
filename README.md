@@ -65,18 +65,6 @@ const ayyanAhmad = {
 
 </div>
 
-<br/>
-
-<!-- Animated coding banner -->
-<div align="center">
-<img width="55%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="coding" />
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:00A6C9,100:0A0E27&height=3" alt="divider" />
-</div>
 
 <br/>
 
