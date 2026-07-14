@@ -26,6 +26,8 @@
 
 ### 👨‍💻 About Me
 
+<div align="left">
+
 - 💻 Full Stack MERN Developer passionate about building scalable web applications.
 - 🎓 Final Year B.Tech Student in Computer Science & Engineering.
 - 🧠 Currently mastering Data Structures & Algorithms using Java.
@@ -34,6 +36,7 @@
 - 🌱 Continuously learning, improving, and exploring new technologies.
 - 💼 Open to Software Development Internship opportunities.
 
+</div>
 <br/>
 
 <div align="center">
