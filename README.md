@@ -78,43 +78,43 @@ const ayyanAhmad = {
 <br/>
 <img src="https://skillicons.dev/icons?i=java,js&theme=dark" alt="Java, JavaScript" />
 
-<br/><br/>
+<br/>
 
 **Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="HTML, CSS, React, Tailwind CSS, Vite" />
 
-<br/><br/>
+<br/>
 
 **Backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express.js" />
 
-<br/><br/>
+<br/>
 
 **Database**
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
 
-<br/><br/>
+<br/>
 
 **Authentication & Security**
 <br/>
 <img src="https://img.shields.io/badge/JWT-0A0E27?style=for-the-badge&logo=jsonwebtokens&logoColor=00F0FF" alt="JWT" />
 <img src="https://img.shields.io/badge/HTTP--Only_Cookies-0A84FF?style=for-the-badge&logo=cookiecutter&logoColor=white" alt="HTTP-only cookies" />
 
-<br/><br/>
+<br/>
 
 **AI**
 <br/>
 <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini AI" />
 
-<br/><br/>
+<br/>
 
 **Tools & Workflow**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm&theme=dark" alt="Git, GitHub, Postman, VS Code, npm" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm&theme=dark" alt="Git, GitHub , VS Code, npm" />
 
 </div>
 
@@ -207,80 +207,6 @@ Built to solve a problem I lived through myself: job prep is scattered across te
 
 <br/>
 
-## 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/⚡_LEARNING_IN_PROGRESS_⚡-2026-00F0FF?style=for-the-badge&labelColor=0A0E27" alt="Learning roadmap 2026" />
-
-</div>
-
-| Skill | Progress | Focus Area |
-|:---|:---|:---|
-| 🔥 **Advanced DSA** (Java) | `████████░░` **70%** | Graphs, Dynamic Programming |
-| 🏗️ **System Design** | `████░░░░░░` **40%** | Scalability & HLD |
-| ☁️ **Cloud Deployment** | `███░░░░░░░` **30%** | AWS, Render, Vercel |
-| 📡 **GraphQL** | `██░░░░░░░░` **20%** | Schema Design |
-| 🐳 **Docker** | `███░░░░░░░` **30%** | Containerization |
-| 🧪 **Testing** | `██░░░░░░░░` **20%** | Jest, E2E |
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:00A6C9,100:0A0E27&height=3" alt="divider" />
-</div>
-
-<br/>
-
-## 🎯 2026 Goals
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🚀_MILESTONE_TRACKER_🚀-2026-0A84FF?style=for-the-badge&labelColor=0A0E27" alt="2026 roadmap" />
-
-</div>
-
-<div align="center">
-
-| Phase | Goal | Status |
-|:---:|:---|:---:|
-| **Q1** | 🎯 Land Full Stack Internship | 🔥 In Progress |
-| **Q1** | 🎯 300+ DSA Problems | 🔥 In Progress |
-| **Q2** | 🔜 JobFit AI v1 to Production | ⏳ Planned |
-| **Q3** | 🔜 5+ Open Source Contributions | ⏳ Planned |
-| **Q3** | 🔜 Master System Design | ⏳ Planned |
-| **Q4** | 🔜 500+ DSA Problems | ⏳ Planned |
-| **Q4** | 🔜 Ship 2 More SaaS Products | ⏳ Planned |
-
-</div>
-
-<br/>
-
-## 🌱 Open Source Journey
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OPEN_SOURCE_GOALS-00F0FF?style=for-the-badge&labelColor=0A0E27" alt="Open source journey" />
-
-</div>
-
-**🎯 Contributing**
-- [ ] First PR to a MERN/React open-source project ⭐
-- [ ] Get merged into a repo with 1,000+ stars 🏆
-- [ ] Maintain **JobFit AI** as a public open-source project 🛠️
-
-**📢 Community**
-- [ ] Write 5+ technical blogs on build-in-public journey 📝
-- [ ] Help beginners with DSA & MERN contributions 🤝
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00A6C9,100:00F0FF&height=3" alt="divider" />
-</div>
-
-<br/>
-
 ## 🎲 Fun Facts
 
 - ☕ Runs on coffee and `console.log()` debugging
@@ -319,25 +245,9 @@ Built to solve a problem I lived through myself: job prep is scattered across te
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00A6C9,100:00F0FF&height=3" alt="divider" />
 </div>
 
+
+
 <br/>
-
-## 🛠️ What I Bring to a Team
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/💪_CORE_STRENGTHS_💪-00F0FF?style=for-the-badge&labelColor=0A0E27" alt="Core competencies" />
-
-</div>
-
-| Strength | Impact |
-|:---|:---|
-| 🧩 **Problem Solver** | Deliberate DSA practice, not memorized patterns |
-| 🏗️ **Full Stack Owner** | Comfortable across schema, APIs, and UI |
-| 📝 **Clear Communicator** | Code explains the *why*, not just the *what* |
-| ⚡ **Fast Learner** | Picks up new tools and codebases quickly |
-| 🎯 **Shipping Mindset** | Prioritizes working features over polished demos |
-
-<br/><br/>
 
 ## 🤝 Let's Connect
 
