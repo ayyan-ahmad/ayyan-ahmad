@@ -52,49 +52,18 @@
 
 ## 🧠 Tech Stack
 
+
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,js&theme=dark" alt="Java, JavaScript" />
-
-<br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="HTML, CSS, React, Tailwind CSS, Vite" />
-
-<br/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express.js" />
-
-<br/>
-
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
-
-<br/>
-
-**Authentication & Security**
-<br/>
-<img src="https://img.shields.io/badge/JWT-0A0E27?style=for-the-badge&logo=jsonwebtokens&logoColor=00F0FF" alt="JWT" />
-<img src="https://img.shields.io/badge/HTTP--Only_Cookies-0A84FF?style=for-the-badge&logo=cookiecutter&logoColor=white" alt="HTTP-only cookies" />
-
-<br/>
-
-**AI**
-<br/>
-<img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini AI" />
-
-<br/>
-
-**Tools & Workflow**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" alt="Git, GitHub , VS Code, npm" />
+| Category | Technologies |
+|-----------|--------------|
+| **💻 Languages** | <img src="https://skillicons.dev/icons?i=java,js&theme=dark" /> |
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" /> |
+| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /> |
+| **🗄️ Database** | <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /> <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="28"/> |
+| **🔐 Auth** | <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/HTTP--Only_Cookies-blue?style=for-the-badge&logo=cookiecutter&logoColor=white" height="28"/> |
+| **🤖 AI** | <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28"/> |
+| **🛠️ Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" /> |
 
 </div>
 
