@@ -1,380 +1,100 @@
-<!--
-  ══════════════════════════════════════════════════════════════════════════
-  ⚠️  BEFORE YOU PUBLISH — REPLACE THESE PLACEHOLDERS (Ctrl+F / Cmd+F them):
-
-    1. YOUR_GITHUB_USERNAME     → your GitHub username (used ~15× for stats,
-                                    streak, trophies, views, contact links)
-    2. YOUR_LINKEDIN_USERNAME   → your LinkedIn public profile handle
-    3. your.email@gmail.com     → your real email address
-    4. jobfit-ai repo/demo URLs → your actual GitHub repo + live deploy link
-
-  This file is 100% Markdown + externally-hosted image APIs — no build step,
-  no assets to upload. Just create a PUBLIC repo named EXACTLY your GitHub
-  username, add this file as README.md in the root, and it becomes your
-  GitHub profile page.
-  ══════════════════════════════════════════════════════════════════════════
+<!-- 
+=======================================================================
+GITHUB PROFILE INSTRUCTIONS:
+This README is fully updated with your provided links.
+Just copy everything below this comment block and paste it into your 
+repository's README.md file, then commit.
+=======================================================================
 -->
 
 <div align="center">
 
-<!-- REPLACE: text= param already says AYYAN%20AHMAD — edit if needed -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:005C7A,100:00F0FF&height=300&section=header&text=AYYAN%20AHMAD&fontSize=68&fontColor=E8FDFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20MERN%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20AI%20Innovator&descAlignY=54&descSize=18&descColor=00F0FF" alt="Ayyan Ahmad banner" />
+# Hi, I'm Ayyan Ahmad 👋
 
-<!-- Animated typing hero -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=Final+Year+CSE+Student+%F0%9F%8E%93;Full+Stack+MERN+Developer+%F0%9F%92%BB;DSA+Enthusiast+%E2%9A%A1+Java;Building+AI-Powered+Web+Apps+%F0%9F%A4%96;Open+To+Internship+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Full+Stack+MERN+Developer;Software+Engineering+Enthusiast)](https://git.io/typing-svg)
 
-<br/>
+*Final-year Computer Science engineering student with a strong foundation in Full-Stack Development and Data Structures & Algorithms. Focused on architecting scalable, AI-powered web applications and building robust software solutions.*
 
-<!-- REPLACE: YOUR_GITHUB_USERNAME in every badge below -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-00F0FF?style=for-the-badge&labelColor=0A0E27" alt="Open to internships" />
-<img src="https://img.shields.io/badge/B.Tech-Final%20Year%20CSE-0A84FF?style=for-the-badge&labelColor=0A0E27" alt="Final year CSE student" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00A6C9,100:00F0FF&height=3" alt="divider" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayyan-ahmad-5a58a628a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayyanahmad2603@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayyan-ahmad)
 
 </div>
 
-<br/>
+---
 
-## 🧬 About Me
+## 👨‍💻 About Me
+
+- 🎓 **Education:** Final Year B.Tech in Computer Science & Engineering.
+- 💻 **Core Focus:** Full Stack Web Development (MERN) and AI API integration.
+- ⚙️ **Current Learning:** Mastering **Data Structures & Algorithms** using **Java** for robust problem-solving.
+- 🎯 **Objective:** Actively seeking a **Software Development Internship (SDE / Full Stack)** to contribute to production-ready systems.
+
+---
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-```javascript
-const ayyanAhmad = {
-  role: "Full Stack MERN Developer",
-  education: "Final Year B.Tech — Computer Science & Engineering",
-  currentFocus: "Mastering Data Structures & Algorithms in Java",
-  passion: "Building AI-powered web applications",
-  building: "JobFit AI — an AI career-prep platform",
-  status: "🟢 Open to Internship Opportunities",
-  motto: "Ship fast. Debug faster. Never stop learning.",
-};
-```
+**Languages & Core** <br>
+[![Java](https://skillicons.dev/icons?i=java,js,html,css)](#)
+
+**Frontend Development** <br>
+[![Frontend](https://skillicons.dev/icons?i=react,tailwind,vite)](#)
+
+**Backend & Database** <br>
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)](#)
+
+**Tools & Deployment** <br>
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify)](#)
 
 </div>
 
-- 🎓 Final-year CSE student who turned late-night coding sessions into a full-stack skillset
-- 🧠 Deep-diving into **DSA with Java** — one problem, one pattern, one proof at a time
-- 🤖 Currently building **JobFit AI**, an AI-powered platform that helps people land jobs
-- ⚡ I like software that is fast, secure, and doesn't make the user think twice
-- 🚀 Actively looking for **internship opportunities** where I can ship real features
-
-<br/>
-
-<div align="center">
-
-| 🎓 Education | 💼 Focus Area | 🧠 Currently Sharpening | 📌 Availability |
-|:---:|:---:|:---:|:---:|
-| B.Tech CSE, Final Year | Full Stack (MERN) + AI | DSA in Java | Open to Internships |
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:00A6C9,100:0A0E27&height=3" alt="divider" />
-</div>
-
-<br/>
-
-## 🧠 Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" alt="Java, JavaScript, HTML, CSS" />
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" alt="React, Tailwind CSS, Vite" />
-
-<br/><br/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express.js" />
-
-<br/><br/>
-
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
-
-<br/><br/>
-
-**Authentication & Security**
-<br/>
-<img src="https://img.shields.io/badge/JWT-0A0E27?style=for-the-badge&logo=jsonwebtokens&logoColor=00F0FF" alt="JWT" />
-<img src="https://img.shields.io/badge/HTTP--Only_Cookies-0A84FF?style=for-the-badge&logo=cookiecutter&logoColor=white" alt="HTTP-only cookies" />
-
-<br/><br/>
-
-**AI**
-<br/>
-<img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini AI" />
-
-<br/><br/>
-
-**Tools & Workflow**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm&theme=dark" alt="Git, GitHub, Postman, VS Code, npm" />
-
-</div>
-
-<br/>
+---
 
 ## 🚀 Featured Project
 
-<div align="center">
+### **[JobFit AI](https://github.com/ayyan-ahmad/JobFit-AI)**
+*An AI-powered MERN stack platform engineered to optimize the technical job preparation process.*
 
-### JobFit AI
+**Core Features & Architecture:**
+- **AI Integration:** Leveraged **Google Gemini AI** for intelligent resume analysis and dynamic mock interviews.
+- **ATS Optimization:** Built a custom ATS-compliant resume generator and job match scoring algorithm.
+- **Secure Authentication:** Implemented highly secure state management using **JWT** and **HTTP-only Cookies**.
+- **Data & Gamification:** Engineered automated email notifications, skill gap detection, dynamic learning roadmaps, and a competitive leaderboard.
+- **UI/UX:** Delivered a fully responsive, modern frontend architecture.
 
-**An AI-powered MERN stack platform that helps users prepare for jobs**
-<br/>
-Resume analysis, AI mock interviews, ATS optimization, and a personalized learning roadmap — all in one place.
-<br/>
-Built to solve a problem I lived through myself: job prep is scattered across ten different tools — JobFit AI puts it behind one clean, AI-powered dashboard.
+🔗 **[View Repository](https://github.com/ayyan-ahmad/JobFit-AI)** | 🌐 **[Live Demo](https://job-fit-ai-plum.vercel.app/)**
 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini AI" />
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=00F0FF" alt="JWT" />
-
-</div>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-- 📄 Resume Analysis
-- 🎯 ATS Resume Generator
-- 🎤 AI Mock Interview
-- 🤖 Google Gemini Integration
-- 📊 Skill Gap Detection
-- 🧩 Job Match Score
-
-</td>
-<td valign="top" width="50%">
-
-- 🗺️ Personalized Learning Roadmap
-- 🔐 JWT Authentication
-- 🛡️ Secure Backend Architecture
-- 📧 Email Notifications
-- 🏆 Leaderboard System
-- 🎮 Gamification Elements
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-📱 Fully **Responsive UI** — built mobile-first, tested across breakpoints
-
-<br/>
-
-<!-- REPLACE: point these at your real repository and live deployment -->
-[![Repository](https://img.shields.io/badge/View_Repository-0A0E27?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/YOUR_GITHUB_USERNAME/jobfit-ai)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=0A0E27)](https://your-jobfit-ai-demo-link.com)
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00A6C9,100:00F0FF&height=3" alt="divider" />
-
-</div>
-
-<br/>
+---
 
 ## 📊 GitHub Analytics
 
-<!-- REPLACE: YOUR_GITHUB_USERNAME in every image URL in this section -->
-
-*The numbers behind the commits — updated automatically, every time this page loads.*
-
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D6DF&ring_color=00F0FF" alt="Ayyan's GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D6DF" alt="Top languages" />
-
-<br/><br/>
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D6DF&currStreakNum=E8FDFF&sideNums=E8FDFF" alt="GitHub streak stats" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&color=00F0FF&line=00F0FF&point=E8FDFF&area=true&hide_border=true" alt="Contribution activity graph" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
-
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ayyan-ahmad&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" height="195" alt="GitHub Stats" />
+  <!-- GitHub Streak Card -->
+  <img src="https://streak-stats.demolab.com/?user=ayyan-ahmad&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakLabel=c9d1d9" height="195" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayyan-ahmad&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-<br/>
+---
 
-## 📚 Currently Learning
+## 📈 2026 Engineering Goals
 
-<div align="center">
+- **Mastery:** Achieve advanced proficiency in DSA to optimize algorithmic problem-solving.
+- **Architecture:** Learn System Design principles to build scalable, high-availability architectures.
+- **Open Source:** Actively contribute to impactful open-source repositories.
+- **Innovation:** Continue developing AI-driven web applications that solve real-world problems.
+- **Career:** Transition into a full-time Software Developer role at a top-tier product company.
 
-<img src="https://img.shields.io/badge/LEARNING_ROADMAP-2026-00F0FF?style=for-the-badge&labelColor=0A0E27" alt="Learning roadmap 2026" />
-
-</div>
-
-<!-- Progress % is self-assessed — keep it honest, update as you actually improve -->
-
-| # | Skill | Progress | Currently Focused On |
-|:---:|:---|:---|:---|
-| 01 | Advanced DSA — Java | `▰▰▰▰▰▰▰▱▱▱` 70% | Graphs, Dynamic Programming, Greedy |
-| 02 | System Design | `▰▰▰▰▱▱▱▱▱▱` 40% | Scalability basics, HLD fundamentals |
-| 03 | Cloud Deployment | `▰▰▰▱▱▱▱▱▱▱` 30% | AWS, Render, Vercel |
-| 04 | GraphQL | `▰▰▱▱▱▱▱▱▱▱` 20% | Schema design, resolvers |
-| 05 | Docker | `▰▰▰▱▱▱▱▱▱▱` 30% | Containerizing MERN apps |
-| 06 | Testing | `▰▰▱▱▱▱▱▱▱▱` 20% | Jest, integration testing |
-
-<br/>
-
-## 🎯 2026 Goals
+---
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/ROADMAP-2026-0A84FF?style=for-the-badge&labelColor=0A0E27" alt="2026 roadmap" />
-
-</div>
-
-| Timeline | Milestone | Status |
-|:---|:---|:---:|
-| Q1 2026 | Land a Full Stack Developer / SDE Internship | 🎯 In Progress |
-| Q1 2026 | Cross 300+ DSA problems solved (LeetCode + GfG) | 🎯 In Progress |
-| Q2 2026 | Ship **JobFit AI v1** to production with real users | 🔜 Planned |
-| Q3 2026 | Contribute to 5+ open-source repositories | 🔜 Planned |
-| Q3 2026 | Master System Design fundamentals | 🔜 Planned |
-| Q4 2026 | Cross 500+ DSA problems solved | 🔜 Planned |
-| Q4 2026 | Build & ship 2 more full-stack SaaS products | 🔜 Planned |
-
-<br/>
-
-## 🌱 Open Source Goals
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OPEN_SOURCE-Journey-00F0FF?style=for-the-badge&labelColor=0A0E27" alt="Open source journey" />
-
-</div>
-
-**🎯 Contribution**
-- [ ] Make my first meaningful PR to a MERN / React open-source project
-- [ ] Get a PR merged into a project with 1,000+ stars
-
-**🛠️ Maintenance**
-- [ ] Maintain **JobFit AI** as a public open-source repository with clean docs & CI
-
-**📢 Community & Docs**
-- [ ] Write technical blogs documenting the build-in-public journey
-- [ ] Help beginners in DSA & MERN through community contributions
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:00A6C9,100:0A0E27&height=3" alt="divider" />
-</div>
-
-<br/>
-
-## 🎲 Fun Facts
-
-<!-- Edit freely — these are placeholders you can swap for your own -->
-
-- ☕ Runs on coffee and `console.log()` debugging
-- 🌙 Most productive between 11 PM – 3 AM
-- 🐛 Has stared at the same typo for 2 hours more times than I'll admit
-- 🎯 Believes clean code is a form of self-respect
-- 🧩 A good DSA problem beats a social media scroll, most days
-- 🏗️ Genuinely enjoys designing database schemas — yes, really
-
-<br/>
-
-## 💭 Tech Philosophy
-
-<div align="center">
-
-> *"Code isn't just about making things work — it's about making things work*
-> *beautifully, scalably, and understandably for the next developer who reads it.*
-> *I build with AI as a co-pilot, not a crutch — using it to move faster*
-> *while still owning every line I ship."*
-
-</div>
-
-<br/>
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00A6C9,100:00F0FF&height=3" alt="divider" />
-</div>
-
-<br/>
-
-## 🛠️ What I Bring to a Team
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CORE_COMPETENCIES-00F0FF?style=for-the-badge&labelColor=0A0E27" alt="Core competencies" />
-
-</div>
-
-| Competency | What That Looks Like in Practice |
-|:---|:---|
-| 🧩 **Problem Solving** | Built on consistent, deliberate DSA practice — not memorized patterns |
-| 🏗️ **Full Ownership** | Comfortable across schema design, APIs, and UI — not boxed into one layer |
-| 🤝 **Communication** | Documents as I build — commits and PRs explain the *why*, not just the *what* |
-| 🔄 **Fast Ramp-Up** | Picks up new tools and codebases with minimal hand-holding |
-| 🎯 **Delivery Bias** | Ships working features over polishing demos |
-
-<br/><br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<!-- REPLACE: username, LinkedIn handle, and email below -->
-[![GitHub](https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-<br/>
-
-*Open to internships, collaborations, and interesting conversations about code.*
-
-</div>
-
-<br/>
-
-<div align="center">
-
-⭐ **If something here caught your eye, a star on my repos means a lot.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:005C7A,100:0A0E27&height=180&section=footer&animation=fadeIn" alt="footer wave" />
-
-<sub>Made with 💙 and lots of ☕ by Ayyan Ahmad</sub>
-
+  <p><i>"Committed to writing clean code, building scalable systems, and continuous learning."</i></p>
+  <p><b><a href="mailto:ayyanahmad2603@gmail.com">Let's connect and build something great.</a></b></p>
 </div>
