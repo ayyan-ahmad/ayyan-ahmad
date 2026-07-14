@@ -24,33 +24,16 @@
 
 
 
-## 🧬 About Me
+### 👨‍💻 About Me
 
-<div align="center">
+- 💻 Full Stack MERN Developer passionate about building scalable web applications.
+- 🎓 Final Year B.Tech Student in Computer Science & Engineering.
+- 🧠 Currently mastering Data Structures & Algorithms using Java.
+- 🤖 Interested in AI-powered applications and modern web technologies.
+- 🚀 Building **JobFit AI**, an AI-driven career preparation platform.
+- 🌱 Continuously learning, improving, and exploring new technologies.
+- 💼 Open to Software Development Internship opportunities.
 
-```javascript
-const ayyanAhmad = {
-  role: "Full Stack MERN Developer",
-  education: "Final Year B.Tech — Computer Science & Engineering",
-  currentFocus: "Mastering Data Structures & Algorithms in Java",
-  passion: "Building AI-powered web applications",
-  building: "JobFit AI — an AI career-prep platform",
-  status: "🟢 Open to Internship Opportunities",
-  motto: "Ship fast. Debug faster. Never stop learning.",
-};
-```
-
-</div>
-
-<div align="left">
-
-- 🎓 Final-year CSE student who turned late-night coding sessions into a full-stack skillset
-- 🧠 Deep-diving into **DSA with Java** — one problem, one pattern, one proof at a time
-- 🤖 Currently building **JobFit AI**, an AI-powered platform that helps people land jobs
-- ⚡ I like software that is fast, secure, and doesn't make the user think twice
-- 🚀 Actively looking for **internship opportunities** where I can ship real features
-
-</div>
 <br/>
 
 <div align="center">
