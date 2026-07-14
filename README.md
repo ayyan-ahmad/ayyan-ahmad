@@ -21,14 +21,7 @@
 <img src="https://img.shields.io/badge/B.Tech-Final%20Year%20CSE-0A84FF?style=for-the-badge&labelColor=0A0E27" alt="Final year CSE student" />
 
 <br/>
-<!-- Extra animated accent banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=speed&color=gradient&customColorList=12,0,32&height=6&section=header" alt="speed line accent" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00A6C9,100:00F0FF&height=3" alt="divider" />
-
-</div>
-
-<br/>
 
 
 ## 🧬 About Me
