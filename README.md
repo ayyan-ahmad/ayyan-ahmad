@@ -22,6 +22,9 @@
 
 <br/>
 
+<!-- Extra animated accent banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=speed&color=gradient&customColorList=12,0,32&height=6&section=header" alt="speed line accent" />
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00A6C9,100:00F0FF&height=3" alt="divider" />
 
 </div>
@@ -60,6 +63,13 @@ const ayyanAhmad = {
 |:---:|:---:|:---:|:---:|
 | B.Tech CSE, Final Year | Full Stack (MERN) + AI | DSA in Java | Open to Internships |
 
+</div>
+
+<br/>
+
+<!-- Animated coding banner -->
+<div align="center">
+<img width="55%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="coding" />
 </div>
 
 <br/>
@@ -184,6 +194,23 @@ Built to solve a problem I lived through myself: job prep is scattered across te
 
 <br/>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!--
+  BONUS ANIMATION: this snake eats your contribution graph.
+  It needs a tiny one-time GitHub Actions setup in this same repo
+  (workflow file provided separately) — once added, it auto-updates daily.
+-->
+<img src="https://raw.githubusercontent.com/ayyan-ahmad/ayyan-ahmad/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+
+<sub>👉 Setup instructions for this one are in <code>snake.yml</code> (shared alongside this file)</sub>
+
+</div>
+
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -226,6 +253,11 @@ Built to solve a problem I lived through myself: job prep is scattered across te
 > *beautifully, scalably, and understandably for the next developer who reads it.*
 > *I build with AI as a co-pilot, not a crutch — using it to move faster*
 > *while still owning every line I ship."*
+
+<br/>
+
+<!-- Same philosophy, animated typing version -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=4000&pause=1200&color=8FD3FF&center=true&vCenter=true&width=780&lines=Code+isn't+just+about+making+things+work...;It's+about+making+things+work+beautifully+%26+scalably.;I+build+with+AI+as+a+co-pilot%2C+not+a+crutch." alt="Philosophy typing SVG" />
 
 </div>
 
