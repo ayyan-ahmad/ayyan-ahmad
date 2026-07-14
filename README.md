@@ -205,6 +205,7 @@ Built to solve a problem I lived through myself: job prep is scattered across te
 <br/>
 
 ## 🎲 Fun Facts
+<div align="left">
 
 - ☕ Runs on coffee and `console.log()` debugging
 - 🌙 Most productive between 11 PM – 3 AM
@@ -212,7 +213,7 @@ Built to solve a problem I lived through myself: job prep is scattered across te
 - 🎯 Believes clean code is a form of self-respect
 - 🧩 A good DSA problem beats a social media scroll, most days
 - 🏗️ Genuinely enjoys designing database schemas — yes, really
-
+</div>
 <br/>
 
 ## 💭 Tech Philosophy
