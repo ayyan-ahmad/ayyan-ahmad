@@ -26,7 +26,15 @@
 
 <!-- Portfolio -->
 
-[![🌐 Portfolio](https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-00F0FF?style=for-the-badge&logo=vercel&logoColor=0A0E27)](https://portfolio-ayyan.netlify.app/)
+<br/>
+
+<h2>🚀 Want to know more about me?</h2>
+
+<a href="https://portfolio-ayyan.netlify.app/">
+  <img src="https://img.shields.io/badge/✨_EXPLORE_MY_PORTFOLIO-00F0FF?style=for-the-badge&logo=vercel&logoColor=0A0E27&labelColor=0A0E27" height="45"/>
+</a>
+
+
 
 <br/>
 <br/>
