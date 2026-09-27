@@ -17,9 +17,7 @@
 <br/>
 
 <!-- Portfolio CTA -->
-<a href="https://portfolio-ayyan.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-00F0FF?style=for-the-badge&logo=vercel&logoColor=0A0E27&labelColor=0A0E27" height="42" alt="Explore Portfolio" />
-</a>
+<h1>🌐 <a href="https://portfolio-ayyan.netlify.app/">Visit My Portfolio →</a></h1>
 
 <br/>
 <br/>
